@@ -1,4 +1,5 @@
 {
+    // from SpaceKit - https://space-kit.netlify.app/?path=/story/color--alternate-colors
     // midnight
     "midnight-darkest": "#060F2F", // midnight-darkest
     "midnight-darker": "#1B2240", // midnight-darker
@@ -18,6 +19,7 @@
     // purple
     "purple-light": "#CD8FFF", // purple-light
     // indigo
+    "indigo-darkest": "#2D1F66", // indigo-darkest
     "indigo-base": "#7156D9", // indigo-base
     "indigo-light": "#AD9BF6", // indigo-light
     "indigo-lighter": "#D9CFFF", // indigo-lighter
@@ -29,4 +31,6 @@
     // orange
     "orange-base": "#F59140", // orange-base
     "orange-light": "#FFC18F", // orange-light
+    // yellow
+    "yellow-base": "#F4D03F", // yellow-base
 }
