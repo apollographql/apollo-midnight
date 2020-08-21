@@ -1,9 +1,22 @@
-# Change Log
+## 0.5.0
 
-All notable changes to the "apollo-midnight" extension will be documented in this file.
+- Properly setup Changelog
+- Add styles for [notification toast messages](https://code.visualstudio.com/api/references/theme-color#notification-colors)
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## 0.4.0
 
-## [Unreleased]
+- Add publishing instructions to the README
+- Improve VS Code gallery banner color for use with new icon
+
+## 0.3.0
+
+- Add more detailed instructions and references to the README
+
+## 0.2.0
+
+- Add a screenshot for the VS Code Marketplace
+- Update the extension icon
+
+## 0.1.0
 
 - Initial release
