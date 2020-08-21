@@ -62,6 +62,18 @@ Some helpful docs for working on this theme:
 
 **Note:** if you want to preview your customizations immediately on your existing editor windows (instead of using VS Code's "run theme" workflow using F5), you can make your changes in your `settings.json` file where they will be applied globally immediately. Then you can copy and paste those into your actual theme file.
 
+**Publishing**
+> Note: Publishing a new version of this theme is only meant for maintainers.
+
+**Prerequisite**: Please follow this [guide](https://code.visualstudio.com/api/working-with-extensions/publishing-extension) to install and login to `vsce`. Ask an existing maintainer how to get the "Personal Access Token".
+
+1. Update [CHANGELOG.md](https://github.com/jglovier/apollo-midnight/blob/master/CHANGELOG.md), and commit latest changes to the repo.
+3. Run `vsce publish [version]`. Follow the [SemVer](https://semver.org) convention and replace `[version]` with one of the following  options:
+    - `patch` for bug fixes
+    - `minor` for improvements
+    - `major` for breaking or bigger changes
+4. Push the commits and make a [new release](https://github.com/jglovier/apollo-midnight/releases/new).
+
 ## License
 
 This project is licensed with the [MIT License](https://github.com/jglovier/apollo-midnight/blob/master/LICENSE), and created by [Joel Glovier](http://github.com/jglovier) for hack day at [Apollo](https://www.apollographql.com/careers).
