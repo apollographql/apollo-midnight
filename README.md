@@ -13,6 +13,13 @@ From Marketplace:
 1. Go to the [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=jglovier.apollo-midnight-color-theme)
 2. Click "Install"
 
+From VS Code:
+
+1. Go to **Extensions** in the VS Code Activity Bar (`View -> Extensions`)
+2. Search for `apollo midnight color theme` by **Joel Glovier**
+3. Click **Install** to install it
+4. Set the theme as your active color theme (`Cmd + Shift + P -> Preferences: Color Theme -> Apollo Midnight`)
+
 ## Development (internal)
 
 Some helpful docs for working on this theme:
