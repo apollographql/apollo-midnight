@@ -114,6 +114,13 @@
 		"panelTitle.inactiveForeground": "#798FBB", // midnight-lighter
 		"panelSection.border": "#3D4B6A", // midnight-base
 		"panelSectionHeader.border": "#3D4B6A", // midnight-base
+		// Notification toasts
+		"notifications.background": "#1B2240", // midnight-darker
+		"notifications.foreground": "#B4C3DB", // midnight-lightest
+		"notifications.border": "#3D4B6A", // midnight-base
+		"notificationToast.border": "#3D4B6A", // midnight-base
+		"notificationCenterHeader.background": "#3C4A85", // blilet-dark
+		"notificationCenterHeader.foreground": "#ffffff", // white
 		//
 		//
 		//
