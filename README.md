@@ -26,7 +26,7 @@ From VS Code:
 
 **I don't like something the way that it is styled.** I understand, color choices can be very subjective. If you think it's problematic for accessibilty, please let me know by [opening an issue](https://github.com/jglovier/apollo-midnight/issues) and I will address it as soon as I'm able (or open a pull request to propose a fix). Otherwise, if it's just a matter of personal taste, feel free to overide the styles with your own custom user settings on your machine. [Here's how](https://code.visualstudio.com/api/extension-guides/color-theme#workbench-colors).
 
-**I have an idea for something really cool.** Awesome! Great ideas are fun. :grinning: If your idea is something you think that everyone else would like too, open an issue to discuss it or just open a PR to propose it. If you're not sure, feel free to propose it anyway. If you just want to try out your idea for yourself, feel free to override the theme styles with your own custom user settings on your machine. [Here's how](https://code.visualstudio.com/api/extension-guides/color-theme#workbench-colors).
+**I have an idea for something really cool.** Awesome! Great ideas are fun. :brain::zap::grinning: If your idea is something you think that everyone else would like too, open an issue to discuss it or just open a PR to propose it. If you're not sure, feel free to propose it anyway. If you just want to try out your idea for yourself, feel free to override the theme styles with your own custom user settings on your machine. [Here's how](https://code.visualstudio.com/api/extension-guides/color-theme#workbench-colors).
 
 ## Development (internal)
 
