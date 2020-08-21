@@ -20,6 +20,30 @@ From VS Code:
 3. Click **Install** to install it
 4. Set the theme as your active color theme (`Cmd + Shift + P -> Preferences: Color Theme -> Apollo Midnight`)
 
+## Customizing
+
+Do you like this theme, but want to customize it a bit? You can easily do that by adding custom rules to your VS Code user settings file that overide theme defaults. Here's how:
+
+```
+{
+  "workbench.colorCustomizations": {
+      "[Apollo Midnight]": {
+        "activityBar.background": "#000000",
+        "activityBar.border": "#ff0000",
+        "sideBar.background": "#000000",
+        "sideBar.border": "#ff0000",
+        "sideBar.foreground": "#ffffff"
+      }
+  }
+}
+```
+
+[Read more](https://code.visualstudio.com/api/extension-guides/color-theme#workbench-colors) about customizing themes in your user `settings.json` file.
+
+You may also want to refer to the [Theme Color docs](https://code.visualstudio.com/api/references/theme-color#panel-colors) that tell you what keys to use to select parts of the VS Code UI. 
+
+If you wish to customize syntax, you need to do that with `editor.tokenColorCustomizations`, which you'll put under the `workbench.colorCustomizations` declarations. [More about that here](https://code.visualstudio.com/api/extension-guides/color-theme#syntax-colors).
+
 ## Contributing
 
 **I found something that isn't styled.** Thanks for noticing! Feel free to [open an issue](https://github.com/jglovier/apollo-midnight/issues) to report it and I'll ship an update as soon as I'm able. Or, feel free to propose a styling for it by submitting a [pull request](https://github.com/jglovier/apollo-midnight/pulls)! :tada:
