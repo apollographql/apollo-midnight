@@ -1,4 +1,6 @@
-# Apollo Midnight VS Code theme
+# Apollo Midnight Visual Studio Code theme
+
+![Screenshot of the Apollo Midnight VS Code theme](https://raw.githubusercontent.com/jglovier/apollo-midnight/master/screenshot.png)
 
 The Apollo Midnight VC Code color theme is based on the color palette of Apollo Studio's GraphQL Explorer in dark mode.
 
