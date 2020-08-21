@@ -36,7 +36,7 @@
 		"activityBar.border": "#3D4B6A", // midnight-base
 		"activityBarBadge.background": "#F4D03F", // yellow-base
 		"activityBarBadge.foreground": "#060F2F", // midnight-darkest
-		"activityBar.activeBorder": "#7A92F0", // blilet-light
+		"activityBar.activeBorder": "#F4D03F", // yellow-base
 		"activityBar.activeBackground": "#5168C2", // blilet-base
 		// Side Bar - contains views like Explorer and Search
 		"sideBar.background": "#1B2240", // midnight-darker
@@ -44,8 +44,9 @@
 		"sideBar.border": "#3D4B6A", // midnight-base
 		"sideBarTitle.foreground": "#ffffff", // white
 		"sideBarSectionHeader.background": "#252E50", // blilet-darker
-		"sideBarSectionHeader.foreground": "#ffffff", // white
+		"sideBarSectionHeader.foreground": "#B4C3DB", // midnight-lightest
 		"sideBarSectionHeader.border": "#3D4B6A", // midnight-base
+		"sideBar.dropBackground": "#060F2F", // midnight-darkest
 		// Editor groups & tabs
 		"editorGroup.border": "#3D4B6A", // midnight-base
 		"editorGroup.dropBackground": "#5168C250", // blilet-base with 50% transparency
@@ -53,26 +54,66 @@
 		"editorGroupHeader.tabsBackground": "#060F2F", // midnight-darkest
 		"editorGroupHeader.border": "#3D4B6A", // midnight-base
 		"tab.border": "#060F2F", // midnight-darkest
-		"tab.activeBackground": "#383D5B", // midnight-dark
+		"tab.activeBackground": "#3C4A85", // blilet-dark
 		"tab.activeForeground": "#ffffff", // white
 		"tab.inactiveBackground": "#1B2240", // midnight-darker
 		"tab.unfocusedInactiveForeground": "#798FBB", // midnight-lighter
 		"tab.unfocusedActiveForeground": "#B4C3DB", // midnight-lightest
 		"tab.hoverForeground": "#ffffff", // white
 		"tab.unfocusedHoverForeground": "#ffffff", // white
-		"breadcrumb.background": "#383D5B", // midnight-dark
+		"tab.activeBorderTop": "#F4D03F", // yellow-base
+		"breadcrumb.background": "#3C4A85", // blilet-dark
 		"breadcrumb.foreground": "#B4C3DB", // midnight-lightest
 		"breadcrumb.focusForeground": "#B4C3DB", // midnight-lightest
 		"breadcrumb.activeSelectionForeground": "#B4C3DB", // midnight-lightest
-		// suggestion popover
+		// Suggestion popover
 		"editorWidget.background": "#060F2F", // midnight-darkest
 		"editorWidget.foreground": "#B4C3DB", // midnight-lightest
 		"editorWidget.border": "#3D4B6A", // midnight-base
-		// context menu
+		// Context menu
 		"menu.background": "#060F2F", // midnight-darkest
 		"menu.foreground": "#FFFFFF", // white
 		"menu.selectionBackground": "#3D4B6A", // midnight-base
 		"menu.selectionForeground": "#FFFFFF", // white
+		// Status Bar - the bar at the bottom of the editor
+		"statusBar.background": "#3C4A85", // blilet-dark
+		"statusBar.foreground": "#B0BEF7", // blilet-lighter
+		"statusBar.border": "#566992", // midnight-light
+		"statusBarItem.prominentForeground": "#ffffff", // white
+		// Title bar - window title bar
+		// *TODO: the next two rules don't appear to work*
+		"titleBar.activeBackground": "#060F2F", // midnight-darkest
+		"titleBar.inactiveBackground": "#1B2240", // midnight-darker
+		// Inputs
+		"input.background": "#060F2F", // midnight-darkest
+		"input.border": "#3D4B6A", // midnight-base
+		"input.foreground": "#ffffff", // white
+		"input.placeholderForeground": "#798FBB", // midnight-lighter
+		// Dropdowns
+		"dropdown.background": "#1B2240", // midnight-darker
+		"dropdown.listBackground": "#1B2240", // midnight-darker
+		"dropdown.foreground": "#B4C3DB", // midnight-lightest
+		// Lists and trees
+		"list.activeSelectionBackground": "#3C4A85", // blilet-dark
+		"list.dropBackground": "#060F2F", // midnight-darkest
+		"list.hoverBackground": "#383D5B", // midnight-dark
+		"list.hoverForeground": "#ffffff", // white
+		"list.inactiveSelectionBackground": "#3D4B6A", // midnight-base
+		"list.inactiveSelectionForeground": "#ffffff", // white
+		"tree.indentGuidesStroke": "#3D4B6A", // midnight-base
+		// *TODO: this next one isn't working either*
+		"list.deemphasizedForeground": "#798FBB", // midnight-lighter
+		// Highlighting
+		"editor.rangeHighlightBackground": "#3C4A8550", // blilet-dark
+		"editor.symbolHighlightBackground": "#3C4A8550", // blilet-dark
+		"editor.findMatchBorder": "#F4D03F", // yellow-base
+		"editor.findMatchHighlightBorder": "#5168C2", // blilet-base
+		"editor.findMatchHighlightBackground": "#7156D960", // indigo-base
+		// Panel colors - e.g. Terminal
+		"panelTitle.activeBorder": "#F4D03F", // yellow-base
+		"panelTitle.inactiveForeground": "#798FBB", // midnight-lighter
+		"panelSection.border": "#3D4B6A", // midnight-base
+		"panelSectionHeader.border": "#3D4B6A", // midnight-base
 		//
 		//
 		//
@@ -220,7 +261,6 @@
 		//"inputValidation.warningBorder": "#b89500",
 		//"list.activeSelectionBackground": "#094771",
 		//"list.activeSelectionForeground": "#ffffff",
-		//"list.deemphasizedForeground": "#8c8c8c",
 		//"list.errorForeground": "#f88070",
 		//"list.filterMatchBackground": "#ea5c0055",
 		//"list.focusBackground": "#062f4a",
