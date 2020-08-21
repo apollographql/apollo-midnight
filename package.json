@@ -2,22 +2,22 @@
     "name": "apollo-midnight-color-theme",
     "displayName": "Apollo Midnight Color Theme",
     "description": "A dark theme based on Apollo Studio's color palette in Explorer dark mode.",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "preview": true,
     "publisher": "jglovier",
     "license": "MIT",
     "icon": "icon.png",
     "galleryBanner": {
-		"color": "#311b87",
-		"theme": "dark"
+        "color": "#311b87",
+        "theme": "dark"
     },
     "repository": {
-		"type": "git",
-		"url": "https://github.com/jglovier/apollo-midnight"
+        "type": "git",
+        "url": "https://github.com/jglovier/apollo-midnight"
     },
     "bugs": {
-		"url": "https://github.com/jglovier/apollo-midnight/issues"
-	},
+        "url": "https://github.com/jglovier/apollo-midnight/issues"
+    },
     "engines": {
         "vscode": "^1.48.0"
     },
@@ -25,11 +25,11 @@
         "Themes"
     ],
     "keywords": [
-		"theme",
-		"apollo",
-		"graphql",
-		"dark"
-	],
+        "theme",
+        "apollo",
+        "graphql",
+        "dark"
+    ],
     "contributes": {
         "themes": [
             {
