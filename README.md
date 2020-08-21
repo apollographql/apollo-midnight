@@ -63,3 +63,7 @@ Some helpful docs for working on this theme:
 - [Creating a VS Code Theme](https://css-tricks.com/creating-a-vs-code-theme/) by [Sarah Drasner](https://github.com/sdras) - a helpful walk through of what it's like to create a VS Code Theme and a recommended order to do stuff in.
 
 **Note:** if you want to preview your customizations immediately on your existing editor windows (instead of using VS Code's "run theme" workflow using F5), you can make your changes in your `settings.json` file where they will be applied globally immediately. Then you can copy and paste those into your actual theme file.
+
+## License
+
+This project is licensed with the [MIT License](https://github.com/jglovier/apollo-midnight/blob/master/LICENSE), and created by [Joel Glovier](http://github.com/jglovier) for hack day at [Apollo](https://www.apollographql.com/careers).
