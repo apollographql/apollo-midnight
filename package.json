@@ -2,7 +2,7 @@
     "name": "apollo-midnight-color-theme",
     "displayName": "Apollo Midnight Color Theme",
     "description": "A dark theme based on Apollo Studio's color palette in Explorer dark mode.",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "preview": true,
     "publisher": "jglovier",
     "license": "MIT",
