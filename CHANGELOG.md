@@ -1,3 +1,7 @@
+## 0.7.0
+
+- Reverted publisher change.
+
 ## 0.6.0
 
 - The repository moved to Apollo's organization, so this revision simply updates refs to the repo in the package.json file, and the README as well as copy updates for the readme to reflect the same
