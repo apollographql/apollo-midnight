@@ -4,7 +4,7 @@
     "description": "A dark theme based on Apollo Studio's color palette in Explorer dark mode.",
     "version": "0.5.0",
     "preview": true,
-    "publisher": "jglovier",
+    "publisher": "apollographql",
     "license": "MIT",
     "icon": "icon.png",
     "galleryBanner": {
@@ -13,10 +13,10 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/jglovier/apollo-midnight"
+        "url": "https://github.com/apollographql/apollo-midnight"
     },
     "bugs": {
-        "url": "https://github.com/jglovier/apollo-midnight/issues"
+        "url": "https://github.com/apollographql/apollo-midnight/issues"
     },
     "engines": {
         "vscode": "^1.48.0"
