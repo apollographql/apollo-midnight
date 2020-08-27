@@ -52,6 +52,8 @@ If you wish to customize syntax, you need to do that with `editor.tokenColorCust
 
 ## Development (internal)
 
+**Maintainer:** [@jglovier](https://github.com/jglovier/)
+
 Some helpful docs for working on this theme:
 - [Color Theme](https://code.visualstudio.com/api/extension-guides/color-theme) - general context on working with Color Themes in VS Code, including making user customizations to a given them, and publishing your own themes.
 - [Theme Color](https://code.visualstudio.com/api/references/theme-color) - contains all of the different customizable elements of VS Code, and what their identifiers are.
