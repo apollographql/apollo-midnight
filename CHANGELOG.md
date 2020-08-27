@@ -1,3 +1,7 @@
+## 0.6.0
+
+- The repository moved to Apollo's organization, so this revision simply updates refs to the repo in the package.json file, and the README as well as copy updates for the readme to reflect the same
+
 ## 0.5.0
 
 - Properly setup Changelog
