@@ -1,6 +1,6 @@
 # Apollo Midnight Visual Studio Code theme
 
-![Screenshot of the Apollo Midnight VS Code theme](https://raw.githubusercontent.com/jglovier/apollo-midnight/master/screenshot.png)
+![Screenshot of the Apollo Midnight VS Code theme](https://raw.githubusercontent.com/apollographql/apollo-midnight/master/screenshot.png)
 
 The Apollo Midnight VC Code color theme is based on the color palette of Apollo Studio's GraphQL Explorer in dark mode.
 
@@ -14,7 +14,7 @@ From Marketplace:
 From VS Code:
 
 1. Go to **Extensions** in the VS Code Activity Bar (`View -> Extensions`)
-2. Search for `apollo midnight color theme` by **Joel Glovier**
+2. Search for `apollo midnight color theme`
 3. Click **Install** to install it
 4. Set the theme as your active color theme (`Cmd + Shift + P -> Preferences: Color Theme -> Apollo Midnight`)
 
@@ -44,9 +44,9 @@ If you wish to customize syntax, you need to do that with `editor.tokenColorCust
 
 ## Contributing
 
-**I found something that isn't styled.** Thanks for noticing! Feel free to [open an issue](https://github.com/jglovier/apollo-midnight/issues) to report it and I'll ship an update as soon as I'm able. Or, feel free to propose a styling for it by submitting a [pull request](https://github.com/jglovier/apollo-midnight/pulls)! :tada:
+**I found something that isn't styled.** Thanks for noticing! Feel free to [open an issue](https://github.com/apollographql/apollo-midnight/issues) to report it and I'll ship an update as soon as I'm able. Or, feel free to propose a styling for it by submitting a [pull request](https://github.com/apollographql/apollo-midnight/pulls)! :tada:
 
-**I don't like something the way that it is styled.** I understand, color choices can be very personal. If you think it's problematic for accessibilty, please let me know by [opening an issue](https://github.com/jglovier/apollo-midnight/issues) and I will address it as soon as I'm able (or open a pull request to propose a fix). If it is not accessibility related but you have general feedback, I still want to hear it. [Please open an issue](https://github.com/jglovier/apollo-midnight/issues). Otherwise, if it's just a matter of personal taste, feel free to overide the styles with your own custom user settings on your machine. [Here's how](https://code.visualstudio.com/api/extension-guides/color-theme#workbench-colors).
+**I don't like something the way that it is styled.** I understand, color choices can be very personal. If you think it's problematic for accessibilty, please let me know by [opening an issue](https://github.com/apollographql/apollo-midnight/issues) and I will address it as soon as I'm able (or open a pull request to propose a fix). If it is not accessibility related but you have general feedback, I still want to hear it. [Please open an issue](https://github.com/apollographql/apollo-midnight/issues). Otherwise, if it's just a matter of personal taste, feel free to overide the styles with your own custom user settings on your machine. [Here's how](https://code.visualstudio.com/api/extension-guides/color-theme#workbench-colors).
 
 **I have an idea for something really cool.** Awesome! Great ideas are fun. :brain::zap::grinning: If your idea is something you think that everyone else would like too, open an issue to discuss it or just open a PR to propose it. If you're not sure, feel free to propose it anyway. If you just want to try out your idea for yourself, feel free to override the theme styles with your own custom user settings on your machine. [Here's how](https://code.visualstudio.com/api/extension-guides/color-theme#workbench-colors).
 
@@ -67,13 +67,13 @@ Some helpful docs for working on this theme:
 
 **Prerequisite**: Please follow this [guide](https://code.visualstudio.com/api/working-with-extensions/publishing-extension) to install and login to `vsce`. Ask an existing maintainer how to get the "Personal Access Token".
 
-1. Update [CHANGELOG.md](https://github.com/jglovier/apollo-midnight/blob/master/CHANGELOG.md), and commit latest changes to the repo.
+1. Update [CHANGELOG.md](https://github.com/apollographql/apollo-midnight/blob/master/CHANGELOG.md), and commit latest changes to the repo.
 3. Run `vsce publish [version]`. Follow the [SemVer](https://semver.org) convention and replace `[version]` with one of the following  options:
     - `patch` for bug fixes
     - `minor` for improvements
     - `major` for breaking or bigger changes
-4. Push the commits and make a [new release](https://github.com/jglovier/apollo-midnight/releases/new).
+4. Push the commits and make a [new release](https://github.com/apollographql/apollo-midnight/releases/new).
 
 ## License
 
-This project is licensed with the [MIT License](https://github.com/jglovier/apollo-midnight/blob/master/LICENSE), and created by [Joel Glovier](http://github.com/jglovier) for hack day at [Apollo](https://www.apollographql.com/careers).
+This project is licensed with the [MIT License](https://github.com/apollographql/apollo-midnight/blob/master/LICENSE), and created by [Joel Glovier](http://github.com/jglovier) for hack day at [Apollo](https://www.apollographql.com/careers).
