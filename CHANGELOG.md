@@ -1,3 +1,8 @@
+## 0.8.0
+
+- Updated Code of Conduct reference to point to Apollo's Community [Code of Conduct](https://www.apollographql.com/docs/community/code-of-conduct/)
+- Updated Theme icon to not use the Apollo logo so as to avoid any confusion with the main Apollo VS Code extension.
+
 ## 0.7.0
 
 - Reverted publisher change.
