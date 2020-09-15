@@ -1,3 +1,8 @@
+## 0.9.0
+
+- Switch publisher to Apollo's official VS Code Marketplace organization (`apollographql`).
+- Remove Code of Conduct reference so that the repository defaults to Apollo's organization conifgured CoC default.
+
 ## 0.8.0
 
 - Updated Code of Conduct reference to point to Apollo's Community [Code of Conduct](https://www.apollographql.com/docs/community/code-of-conduct/)
