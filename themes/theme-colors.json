@@ -1,36 +1,27 @@
 {
-    // from SpaceKit - https://space-kit.netlify.app/?path=/story/color--alternate-colors
-    // midnight
-    "midnight-darkest": "#060F2F", // midnight-darkest
-    "midnight-darker": "#1B2240", // midnight-darker
-    "midnight-dark": "#383D5B", // midnight-dark
-    "midnight-base": "#3D4B6A", // midnight-base
-    "midnight-light": "#566992", // midnight-light
-    "midnight-lighter": "#798FBB", // midnight-lighter
-    "midnight-lightest": "#B4C3DB", // midnight-lightest
-    // blilet
-    "blilet-darkest": "#1B2240", // blilet-darkest
-    "blilet-darker": "#252E50", // blilet-darker
-    "blilet-dark": "#3C4A85", // blilet-dark
-    "blilet-base": "#5168C2", // blilet-base
-    "blilet-light": "#7A92F0", // blilet-light
-    "blilet-lighter": "#B0BEF7", // blilet-lighter
-    "blilet-lightest": "#E6EBFF", // blilet-lightest
-    // purple
-    "purple-light": "#CD8FFF", // purple-light
-    // indigo
-    "indigo-darkest": "#2D1F66", // indigo-darkest
-    "indigo-base": "#7156D9", // indigo-base
-    "indigo-light": "#AD9BF6", // indigo-light
-    "indigo-lighter": "#D9CFFF", // indigo-lighter
-    // teal
-    "teal-base": "#41D9D3", // teal-base
-    "teal-light": "#8BF6F2", // teal-light
-    // silver
-    "silver-darker": "#CAD0D8", // silver-darker
-    // orange
-    "orange-base": "#F59140", // orange-base
-    "orange-light": "#FFC18F", // orange-light
-    // yellow
-    "yellow-base": "#F4D03F", // yellow-base
+    "midnight-darkest": "#060F2F",
+    "midnight-darker": "#1B2240",
+    "midnight-dark": "#383D5B",
+    "midnight-base": "#3D4B6A",
+    "midnight-light": "#566992",
+    "midnight-lighter": "#798FBB",
+    "midnight-lightest": "#B4C3DB",
+    "blilet-darkest": "#1B2240",
+    "blilet-darker": "#252E50",
+    "blilet-dark": "#3C4A85",
+    "blilet-base": "#5168C2",
+    "blilet-light": "#7A92F0",
+    "blilet-lighter": "#B0BEF7",
+    "blilet-lightest": "#E6EBFF",
+    "purple-light": "#CD8FFF",
+    "indigo-darkest": "#2D1F66",
+    "indigo-base": "#7156D9",
+    "indigo-light": "#AD9BF6",
+    "indigo-lighter": "#D9CFFF",
+    "teal-base": "#41D9D3",
+    "teal-light": "#8BF6F2",
+    "silver-darker": "#CAD0D8",
+    "orange-base": "#F59140",
+    "orange-light": "#FFC18F",
+    "yellow-base": "#F4D03F"
 }
