@@ -1,3 +1,7 @@
+## 0.10.0
+
+- Improves YAML syntax highlighting with better color differentiation for entities and values.
+
 ## 0.9.0
 
 - Switch publisher to Apollo's official VS Code Marketplace organization (`apollographql`).
