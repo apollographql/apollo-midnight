@@ -914,6 +914,42 @@
 			}
 		},
 		{
+			"name": "YAML - Entity tag",
+			"scope": [
+				"entity.name.tag.yaml"
+			],
+			"settings": {
+				"foreground": "#CD8FFF", // purple-light
+			}
+		},
+		{
+			"name": "YAML - Single line string & constant value",
+			"scope": [
+				"string.unquoted.plain.out.yaml, constant.numeric.integer.yaml"
+			],
+			"settings": {
+				"foreground": "#E6EBFF", // midnight-lightest
+			}
+		},
+		{
+			"name": "YAML - Block text value",
+			"scope": [
+				"string.unquoted.block.yaml"
+			],
+			"settings": {
+				"foreground": "#B4C3DB", // midnight-lightest
+			}
+		},
+		{
+			"name": "YAML - Boolean value",
+			"scope": [
+				"constant.language.boolean.yaml"
+			],
+			"settings": {
+				"foreground": "#F4D03F", // yellow-base
+			}
+		},
+		{
 			"name": "Markup - Italic",
 			"scope": [
 				"markup.italic"
